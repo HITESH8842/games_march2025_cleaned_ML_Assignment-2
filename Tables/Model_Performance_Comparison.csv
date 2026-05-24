@@ -1,0 +1,5 @@
+Model,Accuracy (%),R2 Score
+Linear Regression,72,0.68
+Decision Tree,79,0.75
+Random Forest,91,0.89
+Gradient Boosting,93,0.91
